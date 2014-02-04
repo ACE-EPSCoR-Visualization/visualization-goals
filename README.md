@@ -8,21 +8,19 @@ living document for the goals and comments on the goals
 
 EPSCoR Visualization 
 
-SETH: Join me in curating and reorganizing this tomorrow - I need a single big picture overview document to keep myself in line and avoid traps for you and myself.  Aiming to share this to Jon and Andy after our meeting today.
-Overall Note: Keep it simple - going to take a while to figure how to set this up gracefully so it is a layer of fun sauce and not a layer of sadness.
 
-Big Goals:  
+**Big Goals:**  
 Build the framework and documentation around a visualization effort using a collaboration platform that both Idaho and Alaska visualization experts can work together on.
 Engage the new EPSCoR visualization faculty hire to be a partner with Idaho Visualization group
 
-Year One Goal:  
+**Year One Goal:**  
 Have Idaho students begin curating visualization tools, assets, and documentation on the collaboration platform using the focus area of Salmon Ecology on the Russian River.
 Have a basic Unity demo of the SCTC - Russian River AOI with basics of area loaded:
 terrain model, core vegetation assets, ??
 (?) fish models + (?) code being modeled
 (?) twiddles on environment
 
-Initial Kickoff Goals:
+**Initial Kickoff Goals:**
 Seth created GitHub: EPSCoR Visualization
 https://github.com/orgs/EPSCoR-Visualization
 Create initial core repository for issue tracking, documentation, and scripts to be hosted.
@@ -35,7 +33,7 @@ Get a rough README, TODO started in the document and kick start the wiki
 Pick a sane method of staying in sync that doesn’t involve a sad doodle poll everytime
 a standing, open, but optional google hangout?
 
-Early April Goal:
+**Early April Goal:**
 Have core datasets transferred to Idaho
 Have basic instructions on how to setup and launch visualization environment
 target user for testing: Dayne on a OSX or Windows machine - check out repo, follow instructions in repo, see environment

@@ -40,6 +40,7 @@ By the late end of February we aim to have a static Unity environment centered a
 We would most likely be presenting this scene sometime between the end of February and mid March. 
 
 Data necessary to facilitate our February goal: 
+
 1. Heightmap data of a region on the Russian River. This doesn't have to be the highest resolution LIDAR data. Some DEM data would be fine. We just need something to get the ball rolling. Ideally the data would be within 10 miles upstream of Cooper Landing, be near a monitoring station on the river, and be a high enough resolution so that we can crop it to a region that doesnt overwhelm the player. I see the area being around 5 acres.
 
 2. Any benthic data on the river's topology. Do you guys have anything like heighmap data for the riverbed?

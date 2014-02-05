@@ -33,6 +33,20 @@ Get a rough README, TODO started in the document and kick start the wiki
 Pick a sane method of staying in sync that doesn’t involve a sad doodle poll everytime
 a standing, open, but optional google hangout?
 
+**February Goal**
+
+By the late end of February we aim to have a static Unity environment centered around a salmon perspective. This build should be fully textured, and contain a believable set of assets to create an immersive environment. Dynamic interactions between agents and physically acurate vegatation placement will come in a later build. The February build is all establishing design guidlines for future builds and eye candy. 
+
+We would most likely be presenting this scene sometime between the end of February and mid March. 
+
+Data necessary to facilitate our February goal: 
+1. Heightmap data of a region on the Russian River. This doesn't have to be the highest resolution LIDAR data. Some DEM data would be fine. We just need something to get the ball rolling. Ideally the data would be within 10 miles upstream of Cooper Landing, be near a monitoring station on the river, and be a high enough resolution so that we can crop it to a region that doesnt overwhelm the player. I see the area being around 5 acres.
+
+2. Any benthic data on the river's topology. Do you guys have anything like heighmap data for the riverbed?
+
+
+
+
 **Early April Goal:**
 Have core datasets transferred to Idaho
 Have basic instructions on how to setup and launch visualization environment
@@ -46,4 +60,6 @@ What else is there?
 Need to document the framework for providing these datasets to this visualization group so we can have CIS apply this framework to the other test cases in years 4 and 5.
 Goal have a visualization framework in place for SCTC by end of Year 3.
 Goal for Y2 would be to identify, document, and deliver the base data needed for visualization.
+
+Melo's Q's: What data would be covered in the core datasets?
 

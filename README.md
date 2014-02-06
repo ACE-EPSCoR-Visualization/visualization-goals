@@ -45,7 +45,7 @@ Data necessary to facilitate our February goal:
 
 2. Any benthic data on the river's topology. Do you guys have anything like heighmap data for the riverbed?
 
-
+3. Aerial photography of the region for the purpose of prelim vegetation placement. We need a reference so we can tell where the tree line starts, identify grassy or bushy areas, identify the width of the shoreline, etc.
 
 
 **Early April Goal:**
@@ -62,5 +62,9 @@ Need to document the framework for providing these datasets to this visualizatio
 Goal have a visualization framework in place for SCTC by end of Year 3.
 Goal for Y2 would be to identify, document, and deliver the base data needed for visualization.
 
-Melo's Q's: What data would be covered in the core datasets?
+Q's for the Alaska Team: 
+
+1. What data would be covered in the core datasets?
+2. When is the end of year one by your calendar?
+
 
